@@ -1,2 +1,0 @@
-# BTESJAVA
-DEMO
